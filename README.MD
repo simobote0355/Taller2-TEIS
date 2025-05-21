@@ -21,4 +21,4 @@
 
 ## IP de prueba
 
-Comunicarse con cualquiera de los integrantes 
+Comunicarse con Simón Botero Villaraga
